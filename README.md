@@ -1,3 +1,9 @@
+# The Odin Project - CSS Exercises
+
+This is a set of CSS exercises forked from The Odin Project to complement the [The Odin Project Web Development Curriculum](https://theodinproject.com). These exercises are intended to review HTML and CSS foundations as well as provide additional challenges that go beyond the basics.
+
+The below is a description and instructions provided by The Odin Project regarding these exercises.
+
 # CSS Exercises
 
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project (TOP). They should only be done when instructed during the course of the curriculum.
