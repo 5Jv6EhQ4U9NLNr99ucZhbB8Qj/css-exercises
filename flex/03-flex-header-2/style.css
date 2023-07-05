@@ -19,12 +19,16 @@ body {
   flex: 3;
   display: flex;
   justify-content: flex-start;
+  align-items: center;
+  margin-left: 20px;
 }
 
 .header--right {
   flex: 1;
   display: flex;
   justify-content: flex-end;
+  align-items: center;
+  margin-right: 20px;
 }
 
 .profile-image {
@@ -33,6 +37,11 @@ body {
   border-radius: 50%;
   width: 48px;
   height: 48px;
+  margin: 10px;
+}
+
+.notification {
+  margin: 10px;
 }
 
 .logo {
